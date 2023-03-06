@@ -18,3 +18,10 @@ Qué aprendí:
   A usar de mejor manera el recyclerview y el viewbinding.
   Entendí de mejor manera el adapter y su contexto, al igual que el viewholder.
   A usar glide para mostrar imágenes variables.
+  Pude resolver los errores que fueron saliendo durante la creación de la app.
+  
+  
+Qué me costó:
+  Al principio me costó entender cómo consumir la api.
+  Tampoco entendía bien la lógica del viewholder y el adapter.
+  
